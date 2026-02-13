@@ -28,6 +28,8 @@ ___________________________________________________________________
 > [!TIP]
 > You can edit the config to toggle from your own preferred task bar, this one is used by Polybar.
 > Be aware of rofi-toggle.sh if not using Polybar
+> Additionally, you can change cat3.png to your own desired image,
+>  just make sure it's large enough ! Or it will look weird :smiley_cat:
 
 ___________________________________________________________________
 
@@ -46,6 +48,15 @@ label-foreground = ${colors.accent}
 label-padding = 1
 label-font = 6
 ```
+
+
+___________________________________________________________________
+
+
+> [!IMPORTANT]
+> ! Make sure to review the official documentaion !
+> Rofi documentaion included below !
+
 
 
 ___________________________________________________________________
