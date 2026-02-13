@@ -1,0 +1,127 @@
+configuration {
+    modi: "drun,run";
+    show-icons: true;
+    font: "JetBrainsMono Nerd Font 11";
+    display-drun: "";
+    display-run: "";
+    drun-match-fields: "name,generic,exec,categories,keywords";
+    drun-display-format: "{name}";
+    drun-show-actions: false;
+    disable-history: false;
+    matching: "fuzzy";
+    case-sensitive: false;
+}
+
+/* ───────────────────────────── */
+/* HARD RESET                    */
+/* ───────────────────────────── */
+* {
+    background-color: transparent;
+    text-color: #ffffff;
+    font: "JetBrainsMono Nerd Font 10";
+}
+
+/* ───────────────────────────── */
+/* WINDOW - Compact until typing */
+/* ───────────────────────────── */
+window {
+    width: 500px;
+    border: 3px;
+    border-radius: 28px;
+    border-color: rgba(255, 214, 106, 0.65);
+    background-color: rgba(18, 61, 136, 0.94);
+}
+
+mainbox {
+    children: [ inputbar, listview ];
+}
+
+/* ───────────────────────────── */
+/* INPUT BAR WITH IMAGE          */
+/* ───────────────────────────── */
+inputbar {
+    children: [ prompt, entry ];
+    spacing: 12px;
+    padding: 180px 40px 40px 40px;
+    border-radius: 28px 28px 0px 0px;
+    background-color: rgba(9, 172, 247, 0.20);
+    background-image: url("/home/dizzy/.config/rofi/images/cat3.png", width);
+}
+
+prompt {
+    enabled: true;
+    padding: 0px 14px 0px 8px;
+    font: "JetBrainsMono Nerd Font 18";
+    text-color: #000000;
+    vertical-align: 0.5;
+}
+
+entry {
+    padding: 12px 18px;
+    font: "JetBrainsMono Nerd Font 12";
+    text-color: #EAF6FF;
+    placeholder: "󱓞  Search...";
+    placeholder-color: rgba(234, 246, 255, 0.45);
+    background-color: rgba(18, 61, 136, 0.85);
+    border-radius: 40px;
+}
+
+/* ───────────────────────────── */
+/* LIST - Shows only when typing */
+/* ───────────────────────────── */
+listview {
+    lines: 3;
+    padding: 16px 16px 18px 16px;
+    spacing: 8px;
+    cycle: true;
+    scrollbar: false;
+    dynamic: true;
+    fixed-height: false;
+    require-input: true;
+}
+
+element {
+    orientation: horizontal;
+    spacing: 14px;
+    padding: 12px 16px;
+    border-radius: 18px;
+    background-color: rgba(255, 255, 255, 0.035);
+}
+
+element.alternate {
+    background-color: rgba(255, 255, 255, 0.025);
+}
+
+element.selected {
+    background-color: rgba(51, 214, 255, 0.20);
+    border: 1px;
+    border-color: rgba(255, 214, 106, 0.55);
+}
+
+element-icon {
+    size: 38px;
+    vertical-align: 0.5;
+}
+
+element-text {
+    vertical-align: 0.5;
+    font: "JetBrainsMono Nerd Font 11";
+    text-color: rgba(234, 246, 255, 0.86);
+}
+
+element-text.selected {
+    text-color: rgba(255, 255, 255, 0.98);
+}
+
+message {
+    padding: 10px 14px;
+    border-radius: 12px;
+    background-color: rgba(255, 106, 106, 0.15);
+    border: 2px;
+    border-color: rgba(255, 106, 106, 0.35);
+}
+
+textbox {
+    text-color: #FFB3B3;
+    font: "JetBrainsMono Nerd Font 10";
+}
