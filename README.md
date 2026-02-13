@@ -26,7 +26,7 @@ ___________________________________________________________________
 > You can edit the config to toggle from your own preferred task bar, this one is used by Polybar.
 
 ___________________________________________________________________
-:heavy_check_mark: #OFFICIAL DOCUMENTATION
+:heavy_check_mark: # OFFICIAL DOCUMENTATION
 
 
 :gear: **ROFI REPO:**
