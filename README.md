@@ -49,13 +49,13 @@ ___________________________________________________________________
 # OFFICIAL DOCUMENTATION
 
 
-:gear: 
+
 ### ROFI REPO:
 
 :link: 
 [Rofi Repo Git Clone](https://github.com/davatorium/rofi)
 
-:gear: 
+ 
 ### ROFI DOCUMENTATION:
 
 :link:
