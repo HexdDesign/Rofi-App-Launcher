@@ -13,7 +13,7 @@ ___________________________________________________________________
 ___________________________________________________________________
 > [!IMPORTANT]
 > **Required**
-> - Rofi
+> :star: Rofi
 ___________________________________________________________________
 ## Example Images:
 
@@ -69,7 +69,7 @@ ___________________________________________________________________
 > [!IMPORTANT]
 > :star: ! Make sure to review the official documentaion ! :star:
 > 
-> Rofi documentaion included below !  :two_hearts:
+> :star: Rofi documentaion included below !  :two_hearts:
 
 
 
