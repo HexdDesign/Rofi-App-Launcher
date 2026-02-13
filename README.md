@@ -49,11 +49,13 @@ ___________________________________________________________________
 # OFFICIAL DOCUMENTATION
 
 
-:gear: **ROFI REPO:**
+:gear: 
+**ROFI REPO:**
 
-:link: [Eww Repo Git Clone]([https://github.com/elkowar/eww](https://github.com/davatorium/rofi))
+:link: [Rofi Repo Git Clone]([(https://github.com/davatorium/rofi)])
 
-:gear: **ROFI DOCUMENTATION:**
+:gear: 
+**ROFI DOCUMENTATION:**
 
-:link:[Official Documentation]([https://elkowar.github.io/eww/](https://davatorium.github.io/rofi/))
+:link:[Official Documentation]([(https://davatorium.github.io/rofi/)])
 ___________________________________________________________________
