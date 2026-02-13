@@ -35,7 +35,7 @@ ___________________________________________________________________
 >
 > :sparkles: You could alternatively change the size of the box in launcher.rasi under window width.
 >
->                                      :cat:
+> :cat:
 
 ___________________________________________________________________
 
