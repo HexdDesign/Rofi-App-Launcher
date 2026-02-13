@@ -34,6 +34,10 @@ ___________________________________________________________________
 > Additionally, you can change cat3.png to your own desired image,
 > 
 > just make sure it's large enough ! Or it will look weird :smiley_cat:
+>
+> You alternatively change the size of the box in launcher.rasi under window width.
+>
+> :cat:
 
 ___________________________________________________________________
 
