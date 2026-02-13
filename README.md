@@ -22,7 +22,7 @@ ___________________________________________________________________
 
 ![Rofi](001a.png)
 
-### Search Input Displays Scrollbar:
+### Search Input Displays Scroll Ability by 3 Rows:
 
 ![Rofi when Typing](001b.png)
 
