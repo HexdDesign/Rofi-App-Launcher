@@ -60,6 +60,13 @@ label-font = 6
 
 ___________________________________________________________________
 
+:heavy_minus_sign: Add a [module/rofi] or module / whatever you choose to name the module
+
+
+:heavy_minus_sign: Add rofi or whatever you chose to name it to your Polybar bar module.
+
+___________________________________________________________________
+
 
 > [!IMPORTANT]
 > ! Make sure to review the official documentaion !
