@@ -18,7 +18,12 @@ ___________________________________________________________________
 ___________________________________________________________________
 ## Example Images:
 
+### Fresh launch / No Input:
+
 ![Rofi](001a.png)
+
+### Search Input Displays Scrollbar:
+
 ![Rofi when Typing](001b.png)
 
 
