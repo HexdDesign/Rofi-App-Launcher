@@ -23,6 +23,7 @@ ___________________________________________________________________
 
 > [!TIP]
 > You can edit the config to toggle from your own preferred task bar, this one is used by Polybar.
+> Be aware of rofi-toggle.sh if not using Polybar
 
 ___________________________________________________________________
 
