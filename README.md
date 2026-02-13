@@ -1,12 +1,14 @@
 # [[ ✩ DOTS BY DIZZY  ✩ ]]
 
 **A minimal but stylish Rofi App Launcher**
+___________________________________________________________________
 
->Designed to be toggled open/closed from Polybar
 
->Remains as a banner image and a search bar until typing
+:dizzy: Designed to be toggled open/closed from Polybar
 
->Displays 3 rows when typing into search bar
+:dizzy: Remains as a banner image and a search bar until typing
+
+:dizzy: Displays 3 rows when typing into search bar
 
 ___________________________________________________________________
 > [!IMPORTANT]
@@ -15,12 +17,8 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 
-
-
 ![Rofi](001a.png)
 ![Rofi when Typing](001b.png)
-
-
 
 
 ___________________________________________________________________
@@ -70,7 +68,7 @@ ___________________________________________________________________
 
 > [!IMPORTANT]
 > ! Make sure to review the official documentaion !
-> Rofi documentaion included below !
+> Rofi documentaion included below !  :two_hearts:
 
 
 
