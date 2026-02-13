@@ -67,7 +67,8 @@ ___________________________________________________________________
 
 
 > [!IMPORTANT]
-> ! Make sure to review the official documentaion !
+> :star: ! Make sure to review the official documentaion ! :star:
+> 
 > Rofi documentaion included below !  :two_hearts:
 
 
