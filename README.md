@@ -39,7 +39,8 @@ tail = true
 click-left = rofi -show drun -theme ~/.config/rofi/launcher.rasi &
 label-foreground = ${colors.accent}
 label-padding = 1
-label-font = 6```
+label-font = 6
+```
 
 
 ___________________________________________________________________
