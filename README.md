@@ -50,13 +50,13 @@ ___________________________________________________________________
 
 
 :gear: 
-**ROFI REPO:**
+### ROFI REPO:
 
 :link: 
 [Rofi Repo Git Clone](https://github.com/davatorium/rofi)
 
 :gear: 
-**ROFI DOCUMENTATION:**
+### ROFI DOCUMENTATION:
 
 :link:
 [Official Documentation](https://davatorium.github.io/rofi/)
