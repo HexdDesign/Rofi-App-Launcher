@@ -52,10 +52,12 @@ ___________________________________________________________________
 :gear: 
 **ROFI REPO:**
 
-:link: [Rofi Repo Git Clone]([(https://github.com/davatorium/rofi)])
+:link: 
+[Rofi Repo Git Clone](https://github.com/davatorium/rofi)
 
 :gear: 
 **ROFI DOCUMENTATION:**
 
-:link:[Official Documentation]([(https://davatorium.github.io/rofi/)])
+:link:
+[Official Documentation](https://davatorium.github.io/rofi/)
 ___________________________________________________________________
