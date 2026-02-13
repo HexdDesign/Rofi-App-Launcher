@@ -3,7 +3,9 @@
 **A minimal but stylish Rofi App Launcher**
 
 >Designed to be toggled open/closed from Polybar
+
 >Remains as a banner image and a search bar until typing
+
 >Displays 3 rows when typing into search bar
 
 ___________________________________________________________________
